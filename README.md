@@ -34,11 +34,12 @@ Open the local URL printed in your terminal.
 
 https://vinay-guntreddy.github.io/quantdesk-trading-dashboard/
 
-## Project Background
+## Project Overview
 
-This project is an adaptation of the open-source [frontend-trading-dashboard](https://github.com/maddoxk/frontend-trading-dashboard) project. The original license and attribution are retained. Further development should be documented as changes are implemented.
+QuantDesk is a trading dashboard built with React, TypeScript, and Vite. It provides a visual interface for exploring simulated market data and trading information.
 
 ## Disclaimer
 
-This dashboard uses simulated market data for demonstration and educational purposes. It is not connected to a real trading exchange and should not be used for financial decisions.
+This project is for educational and demonstration purposes only. Market data is simulated, and the application is not connected to a real trading exchange.
+
 
